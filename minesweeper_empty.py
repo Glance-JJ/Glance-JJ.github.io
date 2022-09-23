@@ -74,3 +74,5 @@ def play(dim_size=10, num_bombs=10):
 
 if __name__=='__main__':
     play()
+    
+    
